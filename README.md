@@ -28,5 +28,5 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
    #### 📫 How to reach me:
-   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](www.linkedin.com/in/vaishnavi-katiyar-49886a1a9)  &nbsp;
+   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/vaishnavi-katiyar-49886a1a9)  &nbsp;
 <br/>
